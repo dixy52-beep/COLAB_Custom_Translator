@@ -12,18 +12,18 @@ This repository contains code for a neural machine translation (NMT) system impl
 
 ## Getting Started
 
-Copy the Colab notebook on your drive
-load a .txt file containing your data
+ - Copy the Colab notebook on your drive
+ - load a .txt file containing your data
 
-here is an example for italia/latin dataset:
+here is an example for italian/latin dataset:
 
-/**
-La gentilezza è un dono. / Benevolentia donum est.
-La modestia è virtù. / Modestia virtus est.
-La gratitudine è un segno di rispetto. / Gratia signum respectus est.
-La fede è fondamentale. / Fides fundamentalis est.
-La pazienza è una virtù. / Patientia virtus est.
-**/
+
+ - La gentilezza è un dono. / Benevolentia donum est.
+ - La modestia è virtù. / Modestia virtus est.
+ - La gratitudine è un segno di rispetto. / Gratia signum respectus est.
+ - La fede è fondamentale. / Fides fundamentalis est.
+ - La pazienza è una virtù. / Patientia virtus est.
+
 
 ## Dependencies
 
