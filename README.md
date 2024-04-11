@@ -12,7 +12,7 @@ This repository contains code for a neural machine translation (NMT) system impl
 
 ## Getting Started
 
- - Copy the Colab notebook on your drive
+ - Copy the Colab notebook on your drive (https://colab.research.google.com/github/dixy52-beep/COLAB_Custom_Translator/blob/main/Colab_Translator.ipynb)
  - load a .txt file containing your data
 
 here is an example for italian/latin dataset:
