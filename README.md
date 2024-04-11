@@ -12,24 +12,22 @@ This repository contains code for a neural machine translation (NMT) system impl
 
 ## Getting Started
 
-To use this NMT system, follow these steps:
+Copy the Colab notebook on your drive
+load a .txt file containing your data
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the provided Python script to train the model and perform translations.
-4. Customize the input and target texts for your specific translation task.
-5. Experiment with different hyperparameters and architectures to improve performance.
+here is an example for italia/latin dataset:
+
+/**
+La gentilezza è un dono. / Benevolentia donum est.
+La modestia è virtù. / Modestia virtus est.
+La gratitudine è un segno di rispetto. / Gratia signum respectus est.
+La fede è fondamentale. / Fides fundamentalis est.
+La pazienza è una virtù. / Patientia virtus est.
+**/
 
 ## Dependencies
 
 - TensorFlow
 - NumPy
 
-## Usage
 
-### Training the Model
-
-To train the NMT model, run the following command:
-
-```bash
-python train.py
